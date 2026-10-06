@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome!
+# -  I’m currently learning Python, C++
 
 <!--
 **l4zsl/l4zsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
