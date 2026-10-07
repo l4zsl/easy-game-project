@@ -1,5 +1,7 @@
 # Welcome!
-## -  I’m currently learning Python, C++
+## -  This game is pretty hard I'd say
+## -  WASD to move, Shift to sprint
+## -  Goodluck.
 
 <!--
 **l4zsl/l4zsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
